@@ -1,0 +1,2 @@
+# Robust-Frozen-Lake-Environment-with-Adversarial-Rewards
+Our algorithm enhances traditional Q-learning in the FrozenLake environment by adding robustness to corrupted rewards. By using a trimmed mean to filter out extreme values and applying a thresholding mechanism, the agent learns a reliable policy despite reward corruption, ensuring stable learning and improved resilience to adversarial rewards.
