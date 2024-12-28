@@ -7,15 +7,11 @@ Our ε-Robust Q-Learning algorithm enhances traditional Q-learning in the Frozen
 
 This numerical simulation aligns with our proven result, accepted for presentation, and publication at the 63rd IEEE Conference on Decision and Control.
 <table>
-  <tr>
-    <td>
-      <img src="https://github.com/sreejeetm1729/Adversarial_Q_Learning-Frozen-Lake--Environment-with-Rewards/blob/main/github_2.png" style="width:800px">
-    </td>
-  </tr>
+
 <tr>
   <td>
-    <img src="https://github.com/sreejeetm1729/Adversarial_Q_Learning-Frozen-Lake--Environment-with-Rewards/blob/main/github_2.png" style="width:380px">
-    <img src="https://github.com/sreejeetm1729/Adversarial_Q_Learning-Frozen-Lake--Environment-with-Rewards/blob/main/github.png" style="width:380px">
-    <img src="https://github.com/sreejeetm1729/Adversarial_Q_Learning-Frozen-Lake--Environment-with-Rewards/blob/main/github_1.png" style="width:380px">
+    <img src="https://github.com/sreejeetm1729/Adversarial_Q_Learning-Frozen-Lake--Environment-with-Rewards/blob/main/github_3.png" style="width:250px">
+    <img src="https://github.com/sreejeetm1729/Adversarial_Q_Learning-Frozen-Lake--Environment-with-Rewards/blob/main/github.png" style="width:250px">
+    <img src="https://github.com/sreejeetm1729/Adversarial_Q_Learning-Frozen-Lake--Environment-with-Rewards/blob/main/github_1.png" style="width:250px">
  </td>
 </tr>
