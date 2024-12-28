@@ -13,5 +13,6 @@ This numerical simulation in the frozen world environment aligns with our proven
     <img src="https://github.com/sreejeetm1729/Adversarial_Q_Learning-Frozen-Lake--Environment-with-Rewards/blob/main/github_3.png" style="width:320px">
     <img src="https://github.com/sreejeetm1729/Adversarial_Q_Learning-Frozen-Lake--Environment-with-Rewards/blob/main/github.png" style="width:320px">
     <img src="https://github.com/sreejeetm1729/Adversarial_Q_Learning-Frozen-Lake--Environment-with-Rewards/blob/main/github_1.png" style="width:320px">
+    <img src="https://github.com/sreejeetm1729/Adversarial_Q_Learning-Frozen-Lake--Environment-with-Rewards/blob/main/github_4.png" style="width:320px">
  </td>
 </tr>
