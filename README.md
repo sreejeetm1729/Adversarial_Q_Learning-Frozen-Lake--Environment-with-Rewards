@@ -14,6 +14,7 @@ This numerical simulation aligns with our proven result, accepted for presentati
   </tr>
 <tr>
   <td>
+    <img src="https://github.com/sreejeetm1729/Adversarial_Q_Learning-Frozen-Lake--Environment-with-Rewards/blob/main/github_2.png" style="width:380px">
     <img src="https://github.com/sreejeetm1729/Adversarial_Q_Learning-Frozen-Lake--Environment-with-Rewards/blob/main/github.png" style="width:380px">
     <img src="https://github.com/sreejeetm1729/Adversarial_Q_Learning-Frozen-Lake--Environment-with-Rewards/blob/main/github_1.png" style="width:380px">
  </td>
