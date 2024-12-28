@@ -9,12 +9,12 @@ This numerical simulation aligns with our proven result, accepted for presentati
 <table>
   <tr>
     <td>
-      <img src="https://github.com/sreejeetm1729/Adversarial_Q_Learning-Frozen-Lake--Environment-with-Rewards/blob/main/github.png" style="width:800px">
+      <img src="" style="width:800px">
     </td>
   </tr>
 <tr>
   <td>
-    <img src="https://github.com/sreejeetm1729/Robust-Q-Learning-under-Corrupted-Rewards/blob/main/Q_learning_convergence_plot_with_different_epsilons.png" style="width:380px">
-    <img src="https://github.com/sreejeetm1729/Robust-Q-Learning-under-Corrupted-Rewards/blob/main/Robust_Q_learning_convergence_plot_with_different_epsilons.png" style="width:380px">
+    <img src="https://github.com/sreejeetm1729/Adversarial_Q_Learning-Frozen-Lake--Environment-with-Rewards/blob/main/github.png" style="width:380px">
+    <img src="https://github.com/sreejeetm1729/Adversarial_Q_Learning-Frozen-Lake--Environment-with-Rewards/blob/main/github_1.png" style="width:380px">
  </td>
 </tr>
