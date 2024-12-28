@@ -9,7 +9,7 @@ This numerical simulation aligns with our proven result, accepted for presentati
 <table>
   <tr>
     <td>
-      <img src="" style="width:800px">
+      <img src="https://github.com/sreejeetm1729/Adversarial_Q_Learning-Frozen-Lake--Environment-with-Rewards/blob/main/github_2.png" style="width:800px">
     </td>
   </tr>
 <tr>
