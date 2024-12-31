@@ -10,13 +10,13 @@ This numerical simulation in the frozen world environment aligns with our proven
 <table>
 <tr>
   <td>
-    <img src="https://github.com/sreejeetm1729/Adversarial_Q_Learning-Frozen-Lake--Environment-with-Rewards/blob/main/github_3.png" style="width:320px">
-    <img src="https://github.com/sreejeetm1729/Adversarial_Q_Learning-Frozen-Lake--Environment-with-Rewards/blob/main/github.png" style="width:320px">
-    <img src="https://github.com/sreejeetm1729/Adversarial_Q_Learning-Frozen-Lake--Environment-with-Rewards/blob/main/github_1.png" style="width:320px">
-    <img src="https://github.com/sreejeetm1729/Adversarial_Q_Learning-Frozen-Lake--Environment-with-Rewards/blob/main/github_4.png" style="width:320px">
-    <img src="https://github.com/sreejeetm1729/Adversarial_Q_Learning-Frozen-Lake--Environment-with-Rewards/blob/main/slippery_github_2.png" style="width:320px">
-    <img src="https://github.com/sreejeetm1729/Adversarial_Q_Learning-Frozen-Lake--Environment-with-Rewards/blob/main/slippery_github_3.png" style="width:320px">
-    <img src="https://github.com/sreejeetm1729/Adversarial_Q_Learning-Frozen-Lake--Environment-with-Rewards/blob/main/slippery_github_4.png" style="width:320px">
-    <img src="https://github.com/sreejeetm1729/Adversarial_Q_Learning-Frozen-Lake--Environment-with-Rewards/blob/main/slippery_github_1.png" style="width:320px">
+    <img src="https://github.com/sreejeetm1729/Adversarial_Q_Learning-Frozen-Lake--Environment-with-Rewards/blob/main/github_3.png" style="width:240px">
+    <img src="https://github.com/sreejeetm1729/Adversarial_Q_Learning-Frozen-Lake--Environment-with-Rewards/blob/main/github.png" style="width:240px">
+    <img src="https://github.com/sreejeetm1729/Adversarial_Q_Learning-Frozen-Lake--Environment-with-Rewards/blob/main/github_1.png" style="width:240px">
+    <img src="https://github.com/sreejeetm1729/Adversarial_Q_Learning-Frozen-Lake--Environment-with-Rewards/blob/main/github_4.png" style="width:240px">
+    <img src="https://github.com/sreejeetm1729/Adversarial_Q_Learning-Frozen-Lake--Environment-with-Rewards/blob/main/slippery_github_2.png" style="width:240px">
+    <img src="https://github.com/sreejeetm1729/Adversarial_Q_Learning-Frozen-Lake--Environment-with-Rewards/blob/main/slippery_github_3.png" style="width:240px">
+    <img src="https://github.com/sreejeetm1729/Adversarial_Q_Learning-Frozen-Lake--Environment-with-Rewards/blob/main/slippery_github_4.png" style="width:240px">
+    <img src="https://github.com/sreejeetm1729/Adversarial_Q_Learning-Frozen-Lake--Environment-with-Rewards/blob/main/slippery_github_1.png" style="width:240px">
  </td>
 </tr>
