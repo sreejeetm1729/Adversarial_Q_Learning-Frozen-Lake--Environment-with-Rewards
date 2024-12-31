@@ -7,7 +7,7 @@ Our ε-Robust Q-Learning algorithm enhances traditional Q-learning in the Frozen
 
 This numerical simulation in the frozen world environment aligns with our proven result, accepted for presentation, and publication at the 63rd IEEE Conference on Decision and Control.
 
-
+<table>
 <tr>
   <td>
     <img src="https://github.com/sreejeetm1729/Adversarial_Q_Learning-Frozen-Lake--Environment-with-Rewards/blob/main/github_3.png" style="width:320px">
@@ -19,7 +19,7 @@ This numerical simulation in the frozen world environment aligns with our proven
 
 Now, we wish to test our algorithm in a slightly more challenging setting. We will turn the slippery conditions on. This means, the player will move in the intended direction with a probability of 1/3 else will move in either perpendicular direction with an equal probability of 1/3 in both directions. 
 
-
+<table></table>
 
 <tr>
   <td>
