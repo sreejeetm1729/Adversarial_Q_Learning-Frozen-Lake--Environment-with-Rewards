@@ -16,3 +16,16 @@ This numerical simulation in the frozen world environment aligns with our proven
     <img src="https://github.com/sreejeetm1729/Adversarial_Q_Learning-Frozen-Lake--Environment-with-Rewards/blob/main/github_4.png" style="width:320px">
  </td>
 </tr>
+
+Now, we wish to test our algorithm in a slightly more challenging setting. We will turn the slippery conditions on. This means, the player will move in the intended direction with a probability of 1/3 else will move in either perpendicular direction with an equal probability of 1/3 in both directions. 
+
+<table>
+
+<tr>
+  <td>
+    <img src="https://github.com/sreejeetm1729/Adversarial_Q_Learning-Frozen-Lake--Environment-with-Rewards/blob/main/github_3.png" style="width:320px">
+    <img src="https://github.com/sreejeetm1729/Adversarial_Q_Learning-Frozen-Lake--Environment-with-Rewards/blob/main/github.png" style="width:320px">
+    <img src="https://github.com/sreejeetm1729/Adversarial_Q_Learning-Frozen-Lake--Environment-with-Rewards/blob/main/github_1.png" style="width:320px">
+    <img src="https://github.com/sreejeetm1729/Adversarial_Q_Learning-Frozen-Lake--Environment-with-Rewards/blob/main/github_4.png" style="width:320px">
+ </td>
+</tr>
