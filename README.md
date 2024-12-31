@@ -7,6 +7,8 @@ Our ε-Robust Q-Learning algorithm enhances traditional Q-learning in the Frozen
 
 This numerical simulation in the frozen world environment aligns with our proven result, accepted for presentation, and publication at the 63rd IEEE Conference on Decision and Control. Now, we wish to test our algorithm in a slightly more challenging setting. We will turn the slippery conditions on. This means, the player will move in the intended direction with a probability of 1/3 else will move in either perpendicular direction with an equal probability of 1/3 in both directions. 
 
+Here are the plots. The first row consists of the plots in non-slippery conditions. And, the last row consists of plots in the slippery conditions.
+
 <table>
 <tr>
   <td>
